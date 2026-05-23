@@ -7,8 +7,8 @@
 body {
     font-family: "Microsoft YaHei", "PingFang SC", sans-serif;
     line-height: 1.8;
-    color: #333;
-    background-color: #f5f5f5;
+    color: #e0e0e0;
+    background-color: #1a1a2e;
     max-width: 700px;
     margin: 0 auto;
     padding: 40px 20px;
@@ -21,7 +21,7 @@ header {
 
 header h1 {
     font-size: 2.5em;
-    color: #2c3e50;
+    color: #e94560;
 }
 
 header p {
@@ -31,18 +31,18 @@ header p {
 }
 /* 内容卡片 */
 section {
-    background: #fff;
+    background: #16213e;
     border-radius: 10px;
     padding: 30px;
     margin-bottom: 20px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
 
 section h2 {
-    color: #2c3e50;
+    color: #e0e0e0;
     margin-bottom: 15px;
     padding-bottom: 10px;
-    border-bottom: 2px solid #3498db;
+    border-bottom: 2px solid #e94560;
 }
 section div {
     display: flex;
